@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Pillow = "*"
+requests = "*"
+telethon = "==0.19.1.6"
+
+[dev-packages]
